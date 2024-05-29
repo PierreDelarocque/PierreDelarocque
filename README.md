@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PierreDelarocque&theme=slateorange&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreDelarocque&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PierreDelarocque&icon=1&color=1)](https://visitcount.itsvg.in)
