@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for internship<br><br>
+🤝 I am actively seeking a position in web development<br><br>
 
 
 ## 🌐 Socials:
